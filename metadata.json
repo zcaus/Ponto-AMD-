@@ -1,0 +1,8 @@
+{
+  "name": "Ponto AMD!",
+  "description": "Mobile-first time tracking application with geolocation and photo verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
